@@ -9,5 +9,12 @@ Manejo de tipo de variables, cadenas, if. for. while
 -![image](https://github.com/user-attachments/assets/bf24efbd-e95a-4ea1-a2d6-60b0b7113e20)
 - resultado
 - ![image](https://github.com/user-attachments/assets/b3b6cfb4-d10c-4990-8401-20c620fd24ce)
+## if else
+- cuando es verdadero
+- ![image](https://github.com/user-attachments/assets/2d83eafa-6cdb-4e7b-b38a-2547dc624b72)
+- para el caso falso
+- ![image](https://github.com/user-attachments/assets/9bab0081-01ac-42bf-bbdc-bd77bafd51df)
+
+
 
 
